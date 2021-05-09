@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-	double height = 0, weight, index, heightInMetrs;
+	double height , weight, index, heightInMetrs;
 
         Scanner input = new Scanner(System.in);
 
